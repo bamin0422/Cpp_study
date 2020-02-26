@@ -2,13 +2,13 @@
 
 # C++ 조아?
 
-![Thumbnail](https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw1l-5xRwQq5xZyEiQAy-kUc&ust=1582827498449000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjj4JPq7-cCFQAAAAAdAAAAABAD)
+![Thumbnail](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
 
 #
 
-- [] 자료형
-- [] 점점
-- [] 다른 것들도
-- [] 겅부해야쥐
+- [ ] 자료형
+- [ ] 점점
+- [ ] 다른 것들도
+- [ ] 겅부해야쥐
 
 #
