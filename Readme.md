@@ -33,7 +33,7 @@
 - [x] switchCase_1.cpp
 - [x] switchCase_2.cpp
 
-# 3_pointer&memory
+# 3_Pointer&Memory
 
 - [x] arrangement_1.cpp
 - [x] arrangement_2.cpp
@@ -48,3 +48,15 @@
 - [x] string_3.cpp
 - [x] string_4.cpp
 - [x] string_5.cpp
+
+# 4_Structure
+
+- [x] phoneNumber.cpp
+- [x] structArrangement.cpp
+- [x] structPointer_1.cpp
+- [x] structPointer_2.cpp
+- [x] structure_1.cpp
+- [x] typedef_1.cpp
+- [x] typedef_2.cpp
+
+# 5_Function
