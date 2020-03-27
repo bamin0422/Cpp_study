@@ -2,7 +2,7 @@
 
 # C++ 조아?
 
-![Thumbnail](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
+<src img="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80">
 
 # 1_DataType&Operator
 
@@ -18,6 +18,8 @@
 - [x] up.cpp
 - [x] weigh.cpp
 
+<br>
+
 # 2_ConditionalStatement_Iteration_Namespace
 
 - [x] conditionalStatement_1.cpp
@@ -32,6 +34,8 @@
 - [x] namespace_2.cpp
 - [x] switchCase_1.cpp
 - [x] switchCase_2.cpp
+
+<br>
 
 # 3_Pointer&Memory
 
@@ -49,6 +53,8 @@
 - [x] string_4.cpp
 - [x] string_5.cpp
 
+<br>
+
 # 4_Structure
 
 - [x] phoneNumber.cpp
@@ -58,5 +64,7 @@
 - [x] structure_1.cpp
 - [x] typedef_1.cpp
 - [x] typedef_2.cpp
+
+<br>
 
 # 5_Function
